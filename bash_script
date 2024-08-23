@@ -1,0 +1,7 @@
+install java
+yum whatprovides java
+java 11
+yum install java11 -y
+download maven package from apche
+maven website
+
